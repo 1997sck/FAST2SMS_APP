@@ -1,4 +1,4 @@
-                                                                          FAST2SMS_APP
+                                                         FAST2SMS_APP
                                                                           
                                                                           
                                                                           
