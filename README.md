@@ -32,7 +32,7 @@ application using node terminal
 automatically restart your server and to to install nodemon as a dev dependency 
 since it is used only in the development environment
 
- npm install nodemon --save-dev
+ npm install nodemon --save-dev...
  
 • Install ejs command and ejs is the abbreviation for embedded KS 
  npm install ejs
