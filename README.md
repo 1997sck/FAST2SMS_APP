@@ -12,7 +12,7 @@ folder in Visual Studio Code
 • To Creating the node project or to initialize the our node project use this below command 
 in command prompt
 
- npm init
+ npm init,
  
 • Install the Express framework globally using NPM so that it can be used to create a web 
 application using node terminal
